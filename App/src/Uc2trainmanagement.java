@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Usecase2trainmanagement {
+public class Uc2trainmanagement {
     public static void main(String[] args) {
         System.out.println("====================================");
         System.out.println(" UC2 - Add Passenger Bogies to Train ");
